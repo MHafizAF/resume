@@ -10,9 +10,8 @@ https://tuanpembual.wordpress.com
 
 ## Employment
 
-- Senior DevOps Engineer, Peentar https://peentar.com Feb 2017 - Present.
 - DevOps Master and Mentor, Binar Academy https://binar.co.id March 2017 - Present.
-- Release Manager of BlankOn XI Uluwatu | https://github.com/blankon/Uluwatu Feb 2017 - May 2018
+- Senior DevOps Engineer, Peentar http://peentar.com Feb 2017 - Aug 2018.
 - DevOps Engineer, GO-JEK https://go-jek.com Dec 2015 - Jan 2017.
 - System Administrator, Boer Technology https://btech.id June 2014 - Dec 2015.
 
@@ -22,6 +21,7 @@ https://tuanpembual.wordpress.com
 
 ## Additional experience
 
+- Release Manager of BlankOn XI Uluwatu | https://github.com/blankon/Uluwatu Feb 2017 - May 2018.
 - Public Relation Team, BlankOn Project, Aug 2016 - Jan 2017.
 - Documentation Team, BlankOn Project, September 2012 - Aug 2016.
 - Event Coordinator Committee, openSUSE.Asia Summit 2016, Dec 2015 - Oct 2016.
