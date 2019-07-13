@@ -10,7 +10,7 @@ https://tuanpembual.wordpress.com
 
 ## Employment
 
-- DevOps Master and Mentor, Binar Academy https://binar.co.id March 2017 - Present.
+- DevOps Master and Mentor, Binar Academy https://binar.co.id March 2017 - April 2019.
 - Senior DevOps Engineer, Peentar http://peentar.com Feb 2017 - Aug 2018.
 - DevOps Engineer, GO-JEK https://go-jek.com Dec 2015 - Jan 2017.
 - System Administrator, Boer Technology https://btech.id June 2014 - Dec 2015.
@@ -31,7 +31,7 @@ https://tuanpembual.wordpress.com
 
 - Automation: Ansible, Chef
 - CI/CD: Gitlab-CI, Jenkins
-- Cloud Provider: AWS, GCE
+- Cloud Provider: AWS, GCE, K8s
 - Automated Testing: Calabash, Cucumber, Gherkin.
 
 ## References
