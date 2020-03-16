@@ -1,10 +1,11 @@
-### Estu Fardani
+## Estu Fardani
 
 - Independent DevOps Consultant
 
 +62 856 43214898  
 estu@opensuse.id  
 https://github.com/tuanpembual  
+https://linkedin.com/in/tuanpembual/  
 https://tuanpembual.wordpress.com
 
 ## Employment
@@ -19,20 +20,24 @@ https://tuanpembual.wordpress.com
 - Informatics Engineering, UIN Sunan Kalijaga Yogyakarta, 2009-2014 3.26/4.00.
 
 ## Additional experience
-- Release Manager of BlankOn Uluwatu, Feb 2017 - May 2018.
-- PR Team, BlankOn Project, Aug 2016 - Jan 2017.
+- Release Manager of BlankOn XI Uluwatu | https://github.com/blankon/Uluwatu Feb 2017 - May 2018.
+- Public Relation Team, BlankOn Project, Aug 2016 - Jan 2017.
 - Documentation Team, BlankOn Project, September 2012 - Aug 2016.
 - Event Coordinator Committee, openSUSE.Asia Summit 2016, Dec 2015 - Oct 2016.
 - Event Coordinator Committee, GNOME.Asia Summit 2015, Dec 2014 - June 2015.
 
 ## Languages and technologies
 
-- Python, Ruby.
-- Continuous Integration, Chef, Vagrant, Docker, Jenkins.
+- Automation: Ansible, Chef
+- CI/CD: Gitlab-CI, Jenkins
+- Cloud Provider: AWS, GCE, K8s
+- Automated Testing: Calabash, Cucumber, Gherkin.
 
 ## References
 - I Gede Bagus Kosha, Lead of Infra Team. kosha@gtech.digital.
 - Lutvi Rosyady. CEO Qatros. lutvi@qatros.com.
+- Alamanda Shantika, CEO of Binar Academy, ashantika@binar.co.id.
+- Tonny Adhi Sabastian, CTO of Peentar, tonny@peentar.com.
 - Utian Ayuba. Executive Director of Btech. utian@btech.id.
 - Mohammad Anwari. Executive Director of BlankOn Project. mdamt@mdamt.net.
 - Ahmad Haris. Founder KodeKreatif. ahmadharis@gnome.org.
