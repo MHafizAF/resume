@@ -1,15 +1,16 @@
 ### Estu Fardani
 
-- Release Manager of BlankOn Uluwatu | https://github.com/blankon/Uluwatu
+- Independent DevOps Consultant
 
 +62 856 43214898  
-estu@jogja.linux.or.id  
+estu@opensuse.id  
 https://github.com/tuanpembual  
 https://tuanpembual.wordpress.com
 
 ## Employment
-
-- Senior DevOps Engineer, Peentar https://peentar.com Feb 2017 - Present.
+- DevOps Engineer, GTech Digital Asia, Aug 2019 - April 2020.
+- DevOps Master and Mentor, Binar Academy https://binar.co.id March 2017 - April 2019.
+- DevOps Engineer, Peentar https://peentar.com Feb 2017 - Present.
 - DevOps Engineer, GO-JEK https://go-jek.com Dec 2015 - Jan 2017.
 - System Administrator, Boer Technology https://btech.id June 2014 - Dec 2015.
 
@@ -18,8 +19,8 @@ https://tuanpembual.wordpress.com
 - Informatics Engineering, UIN Sunan Kalijaga Yogyakarta, 2009-2014 3.26/4.00.
 
 ## Additional experience
-
-- PR Team, BlankOn Project, Aug 2016 - Jan 2-17.
+- Release Manager of BlankOn Uluwatu, Feb 2017 - May 2018.
+- PR Team, BlankOn Project, Aug 2016 - Jan 2017.
 - Documentation Team, BlankOn Project, September 2012 - Aug 2016.
 - Event Coordinator Committee, openSUSE.Asia Summit 2016, Dec 2015 - Oct 2016.
 - Event Coordinator Committee, GNOME.Asia Summit 2015, Dec 2014 - June 2015.
@@ -30,10 +31,10 @@ https://tuanpembual.wordpress.com
 - Continuous Integration, Chef, Vagrant, Docker, Jenkins.
 
 ## References
-
-- Lutvi Rosyady. Head of Product at GO-JEK Indonesia. lutvi@go-jek.com.
+- I Gede Bagus Kosha, Lead of Infra Team. kosha@gtech.digital.
+- Lutvi Rosyady. CEO Qatros. lutvi@qatros.com.
 - Utian Ayuba. Executive Director of Btech. utian@btech.id.
 - Mohammad Anwari. Executive Director of BlankOn Project. mdamt@mdamt.net.
 - Ahmad Haris. Founder KodeKreatif. ahmadharis@gnome.org.
-- Deny Prasetyo. Java Dev. jasoet87@gmail.com.
-- M. Iqbal Jalaluddin. IT Supervisor of Gameloft South-East Asia. muhammad.jalaluddin@gameloft.com.
+- Deny Prasetyo. GoPay System Engineer. jasoet87@gmail.com.
+- M. Iqbal Jalaluddin. SRE at Accellbyte.
