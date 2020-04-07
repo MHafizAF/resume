@@ -29,9 +29,8 @@ https://tuanpembual.wordpress.com
 ## Languages and technologies
 
 - Automation: Ansible, Chef
-- CI/CD: Gitlab-CI, Jenkins
-- Cloud Provider: AWS, GCE, K8s
-- Automated Testing: Calabash, Cucumber, Gherkin.
+- CI/CD: Gitlab-CI, Kubernetes, Jenkins
+- Cloud Provider: AWS, AliCloud, GCE
 
 ## References
 - I Gede Bagus Kosha, Lead of Infra Team. kosha@gtech.digital.
