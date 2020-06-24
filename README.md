@@ -2,10 +2,10 @@
 
 - Independent DevOps Consultant
 
-+62 856 43214898  
-estu@opensuse.id  
-https://github.com/tuanpembual  
-https://linkedin.com/in/tuanpembual/  
++62 856 43214898
+estu@opensuse.id
+https://github.com/tuanpembual
+https://linkedin.com/in/tuanpembual/
 https://tuanpembual.wordpress.com
 
 ## Employment
@@ -30,7 +30,7 @@ https://tuanpembual.wordpress.com
 
 - Automation: Ansible, Chef
 - CI/CD: Gitlab-CI, Kubernetes, Jenkins
-- Cloud Provider: AWS, AliCloud, GCE
+- Cloud Provider: GCP, AWS, AliCloud
 
 ## References
 - I Gede Bagus Kosha, Lead of Infra Team. kosha@gtech.digital.
