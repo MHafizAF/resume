@@ -9,7 +9,8 @@ https://linkedin.com/in/tuanpembual/
 https://tuanpembual.wordpress.com
 
 ## Employment
-- DevOps Engineer, GTech Digital Asia https://mapemall.com, Aug 2019 - April 2020.
+- Tech Advisor, Kementerian Pendidikan dan Kebudayaan, April 2020 - Present
+- DevOps Engineer, GTech Digital Asia https://mapemall.com, Aug 2019 - March 2020.
 - DevOps Master and Mentor, Binar Academy https://binar.co.id March 2017 - April 2019.
 - DevOps Engineer, Peentar https://peentar.com Feb 2017 - Present.
 - DevOps Engineer, GO-JEK https://go-jek.com Dec 2015 - Jan 2017.
@@ -36,9 +37,6 @@ https://tuanpembual.wordpress.com
 - I Gede Bagus Kosha, Lead of Infra Team. kosha@gtech.digital.
 - Lutvi Rosyady. CEO Qatros. lutvi@qatros.com.
 - Alamanda Shantika, CEO of Binar Academy, ashantika@binar.co.id.
-- Tonny Adhi Sabastian, CTO of Peentar, tonny@peentar.com.
+- Tonny Adhi Sabastian, Former CTO of Peentar, tonny@peentar.com.
 - Utian Ayuba. Executive Director of Btech. utian@btech.id.
 - Mohammad Anwari. Executive Director of BlankOn Project. mdamt@mdamt.net.
-- Ahmad Haris. Founder KodeKreatif. ahmadharis@gnome.org.
-- Deny Prasetyo. GoPay System Engineer. jasoet87@gmail.com.
-- M. Iqbal Jalaluddin. SRE at Accellbyte.
