@@ -29,9 +29,9 @@ https://tuanpembual.wordpress.com
 
 ## Languages and technologies
 
-- Automation: Ansible, Chef
-- CI/CD: Gitlab-CI, Kubernetes, Jenkins
-- Cloud Provider: GCP, AWS, AliCloud
+- Cloud Provider: GCP, AWS
+- CI/CD: Gitlab-CI, Kubernetes, GKE
+- Automation: Ansible, Terraform
 
 ## References
 - Ibrahim Arief, Tech Advisor at Wartek. ibam@wartek.belajar.id
