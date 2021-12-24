@@ -1,6 +1,6 @@
 ## Estu Fardani
 
-- Independent DevOps Consultant
+- Cloud Engineer
 
 +62 856 43214898  
 estu@opensuse.id  
@@ -9,7 +9,8 @@ https://linkedin.com/in/tuanpembual
 https://tuanpembual.wordpress.com
 
 ## Employment
-- Tech Advisor, Kementerian Pendidikan dan Kebudayaan, April 2020 - Present
+- Cloud Engineer, Telkom Indonesia, Oct 2020 - Present
+- Tech Advisor, Pusat Studi Pendidikan dan Kebijakan, April 2020 - Jun 2020.
 - DevOps Engineer, GTech Digital Asia https://mapemall.com, Aug 2019 - March 2020.
 - DevOps Master and Mentor, Binar Academy https://binar.co.id Sept 2018 - April 2019.
 - DevOps Engineer, Peentar https://peentar.com Feb 2017 - Aug 2018.
@@ -34,7 +35,7 @@ https://tuanpembual.wordpress.com
 - Automation: Ansible, Terraform
 
 ## References
-- Ibrahim Arief, Tech Advisor at Wartek. ibam@wartek.belajar.id
+- Ibrahim Arief, Principal Tribe Innovator. ibam@wartek.belajar.id
 - I Gede Bagus Kosha, Lead of Infra Team. kosha@gtech.digital.
 - Lutvi Rosyady. CEO Qatros. lutvi@qatros.com.
 - Utian Ayuba. Executive Director of Btech. utian@btech.id.
