@@ -3,7 +3,7 @@
 - Cloud Engineer
 
 +62 856 43214898  
-estu@opensuse.id  
+andro.medh4@gmail.com
 https://github.com/tuanpembual  
 https://linkedin.com/in/tuanpembual  
 https://tuanpembual.wordpress.com
