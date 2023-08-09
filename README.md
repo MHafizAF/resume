@@ -1,42 +1,24 @@
-## Estu Fardani
+## Muhammad Hafiz Al Fikri
 
-- Cloud Engineer
+- Backend Developer
 
-+62 856 43214898  
-andro.medh4@gmail.com  
-https://github.com/tuanpembual  
-https://linkedin.com/in/tuanpembual  
-https://tuanpembual.wordpress.com
+hafiz170301@gmail.com
+https://github.com/MHafizAF  
+https://linkedin.com/in/hafizalfikri
 
-## Employment
-- Cloud Engineer, Telkom Indonesia, Oct 2020 - Present
-- Tech Advisor, Pusat Studi Pendidikan dan Kebijakan, April 2020 - Jun 2020.
-- DevOps Engineer, GTech Digital Asia https://mapemall.com, Aug 2019 - March 2020.
-- DevOps Master and Mentor, Binar Academy https://binar.co.id Sept 2018 - April 2019.
-- DevOps Engineer, Peentar https://peentar.com Feb 2017 - Aug 2018.
-- DevOps Engineer, GO-JEK https://go-jek.com Dec 2015 - Jan 2017.
-- System Administrator, Boer Technology https://btech.id June 2014 - Nov 2015.
+## Experience
+- Backend Engineer Freelance, PT Qatros Teknologi Nusantara, December 2022 - March 2023
+- Starter Backend Engineer Internship, PT Qatros Teknologi Nusantara, August 2022 - December 2022
+- Web Developer Internship, PT Git Solution, September 2021 - December 2021
 
 ## Education
-
-- Informatics Engineering, UIN Sunan Kalijaga Yogyakarta, 2009-2014 3.26/4.00.
-
-## Additional experience
-- Release Manager of BlankOn XI Uluwatu, Feb 2017 - May 2018.
-- Public Relation Team, BlankOn Project, Aug 2016 - Jan 2017.
-- Documentation Team, BlankOn Project, September 2012 - Aug 2016.
-- Event Coordinator Committee, openSUSE.Asia Summit 2016, Dec 2015 - Oct 2016.
-- Event Coordinator Committee, GNOME.Asia Summit 2015, Dec 2014 - June 2015.
+- Information System, Amikom Yogyakarta University, 2019-2023 3.85/4.00.
 
 ## Languages and technologies
-
-- Cloud Provider: GCP, AWS
-- CI/CD: Gitlab-CI, Kubernetes, GKE
-- Automation: Ansible, Terraform
+- Languages : PHP, Ruby, NodeJS
+- Framework : Laravel, Codeigniter, Ruby on Rails, Express JS
+- Database  : PostgreSQL, MySQL
+- Git       : Gitlab, Github
 
 ## References
-- Ibrahim Arief, Principal Tribe Innovator. ibam@wartek.belajar.id
-- I Gede Bagus Kosha, Lead of Infra Team. kosha@gtech.digital.
-- Lutvi Rosyady. CEO Qatros. lutvi@qatros.com.
-- Utian Ayuba. Executive Director of Btech. utian@btech.id.
-- Mohammad Anwari. Executive Director of BlankOn Project. mdamt@mdamt.net.
+- Estu Fardani. Mentor DevOps. andro.medh4@gmail.com
