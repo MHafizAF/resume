@@ -2,9 +2,9 @@
 
 - Backend Developer
 
-hafiz170301@gmail.com 
-https://github.com/MHafizAF  
-https://linkedin.com/in/hafizalfikri
+Email    : hafiz170301@gmail.com 
+Github   : https://github.com/MHafizAF  
+LinkedIn : https://linkedin.com/in/hafizalfikri
 
 ## Experience
 - Backend Engineer Freelance, PT Qatros Teknologi Nusantara, December 2022 - March 2023
