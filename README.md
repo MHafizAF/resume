@@ -2,7 +2,7 @@
 
 - Backend Engineer
 
-Email    : hafiz170301@gmail.com   
+Email    : muhammadhafizalfikri17@gmail.com   
 Github   : https://github.com/MHafizAF     
 LinkedIn : https://linkedin.com/in/hafizalfikri   
 
