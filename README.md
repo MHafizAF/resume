@@ -17,7 +17,7 @@ LinkedIn : https://linkedin.com/in/hafizalfikri
 
 ## Languages and technologies
 - Languages : PHP, Ruby, NodeJS
-- Framework : Laravel, Codeigniter, Ruby on Rails, Express JS
+- Framework : Laravel, Codeigniter, Ruby on Rails
 - Database  : PostgreSQL, MySQL
 - Git       : Gitlab, Github
 
